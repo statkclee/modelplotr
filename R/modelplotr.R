@@ -84,7 +84,6 @@
 #' plot_cumresponse()
 #' plot_cumresponse(highlight_decile=2,highlight_how="text")
 #' plot_all()
-#'
 #' @docType package
 #' @name modelplotr
 NULL

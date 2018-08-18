@@ -85,7 +85,6 @@ plotting_scope(scope="compare_datasets")
 plot_cumresponse()
 plot_cumresponse(highlight_decile=2,highlight_how="text")
 plot_all()
-
 }
 \seealso{
 \url{https://github.com/modelplot/modelplotr} for details on the package
